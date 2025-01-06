@@ -1,0 +1,5 @@
+{"name": "jeet", "age": 21}
+name: jeet
+
+age: 21
+{'name': 'jeet', 'age': 21}
